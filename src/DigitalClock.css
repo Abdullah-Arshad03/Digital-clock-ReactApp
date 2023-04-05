@@ -1,0 +1,20 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+.clock {
+  text-align: center;
+  margin: 150px 0px;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+.time {
+  margin-bottom: 10px;
+  color: black;
+  font-size: 60px;
+ 
+}
+.pak-time {
+  font-size: 14px;
+  font-weight: bold;
+  color: green;
+}
